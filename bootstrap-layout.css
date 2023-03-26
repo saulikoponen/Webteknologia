@@ -1,0 +1,15 @@
+.col-6{
+    border-color: aqua;
+    border-width: 3px;
+    
+}
+.container{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+body{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/586/603/742/minimalism-4k-for-mac-desktop-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
